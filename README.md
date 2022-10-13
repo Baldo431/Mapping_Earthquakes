@@ -18,6 +18,6 @@ Build a map on a website using the latest earthquake GeoJSON data from the U.S. 
 <br>
 
 <p align="center">
-    <img src="demo.PNG">
+    <img src="demo.png">
     Figure 1 (Deliverable Demo)
 </p>
